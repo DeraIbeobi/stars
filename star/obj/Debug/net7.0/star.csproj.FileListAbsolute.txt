@@ -1,0 +1,15 @@
+/Users/dera/Projects/star/star/bin/Debug/net7.0/star
+/Users/dera/Projects/star/star/bin/Debug/net7.0/star.deps.json
+/Users/dera/Projects/star/star/bin/Debug/net7.0/star.runtimeconfig.json
+/Users/dera/Projects/star/star/bin/Debug/net7.0/star.dll
+/Users/dera/Projects/star/star/bin/Debug/net7.0/star.pdb
+/Users/dera/Projects/star/star/obj/Debug/net7.0/star.csproj.AssemblyReference.cache
+/Users/dera/Projects/star/star/obj/Debug/net7.0/star.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dera/Projects/star/star/obj/Debug/net7.0/star.AssemblyInfoInputs.cache
+/Users/dera/Projects/star/star/obj/Debug/net7.0/star.AssemblyInfo.cs
+/Users/dera/Projects/star/star/obj/Debug/net7.0/star.csproj.CoreCompileInputs.cache
+/Users/dera/Projects/star/star/obj/Debug/net7.0/star.dll
+/Users/dera/Projects/star/star/obj/Debug/net7.0/refint/star.dll
+/Users/dera/Projects/star/star/obj/Debug/net7.0/star.pdb
+/Users/dera/Projects/star/star/obj/Debug/net7.0/star.genruntimeconfig.cache
+/Users/dera/Projects/star/star/obj/Debug/net7.0/ref/star.dll
